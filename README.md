@@ -1,2 +1,2 @@
-The second Git Lab
-Second team member: <Aaron Begy>
+# Git Lab #2
+## First team member : Faisal Hussein
