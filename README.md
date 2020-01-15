@@ -1,2 +1,2 @@
 The second Git Lab
-Second team member : < Aaron Begy >
+Second team member: <Aaron Begy>
