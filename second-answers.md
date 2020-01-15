@@ -1,1 +1,1 @@
-
+1. the command is rejected and gives an error because the online version is different from the local version. My partner commited a change to the repository that I have to pull before I can make changes to the file.
